@@ -1,0 +1,7 @@
+# Pantry Phantom — .gitignore
+# NOTE (Kiroween 2026 rule): do NOT add .kiro/ here. The repo MUST contain
+# the /.kiro directory at its root for the submission to be valid.
+
+node_modules/
+.DS_Store
+*.log
